@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_File\\Code\\C_CODE\\test1_9_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC861E6-B200-4D6A-8C69-8C4EB2422139}|test1_9_1\\test1_9_1.vcxproj|D:\\Study_File\\Code\\C_CODE\\test1_9_1\\test1_9_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFC861E6-B200-4D6A-8C69-8C4EB2422139}|test1_9_1\\test1_9_1.vcxproj|solutionrelative:test1_9_1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\Study_File\\Code\\C_CODE\\test1_9_1\\test1_9_1\\test.cpp",
+              "RelativeDocumentMoniker": "test1_9_1\\test.cpp",
+              "ToolTip": "D:\\Study_File\\Code\\C_CODE\\test1_9_1\\test1_9_1\\test.cpp",
+              "RelativeToolTip": "test1_9_1\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-01T12:00:42.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
