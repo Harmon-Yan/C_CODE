@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_File\\Code\\C_CODE\\C_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3D3923-9684-4DD9-9203-F9A6961A9D26}|C_practice\\C_practice.vcxproj|D:\\Study_File\\Code\\C_CODE\\C_practice\\C_practice\\practice_9_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE3D3923-9684-4DD9-9203-F9A6961A9D26}|C_practice\\C_practice.vcxproj|solutionrelative:C_practice\\practice_9_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice_9_1.cpp",
+              "DocumentMoniker": "D:\\Study_File\\Code\\C_CODE\\C_practice\\C_practice\\practice_9_1.cpp",
+              "RelativeDocumentMoniker": "C_practice\\practice_9_1.cpp",
+              "ToolTip": "D:\\Study_File\\Code\\C_CODE\\C_practice\\C_practice\\practice_9_1.cpp*",
+              "RelativeToolTip": "C_practice\\practice_9_1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-01T15:19:40.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
