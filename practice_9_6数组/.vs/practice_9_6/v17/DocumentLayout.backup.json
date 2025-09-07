@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_File\\Code\\C_CODE\\practice_9_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E396D31B-26AC-4D8A-B6EF-7D8967E80868}|practice_9_6\\practice_9_6.vcxproj|D:\\Study_File\\Code\\C_CODE\\practice_9_6\\practice_9_6\\practice_\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E396D31B-26AC-4D8A-B6EF-7D8967E80868}|practice_9_6\\practice_9_6.vcxproj|solutionrelative:practice_9_6\\practice_\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice_\u6570\u7EC4.cpp",
+              "DocumentMoniker": "D:\\Study_File\\Code\\C_CODE\\practice_9_6\\practice_9_6\\practice_\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "practice_9_6\\practice_\u6570\u7EC4.cpp",
+              "ToolTip": "D:\\Study_File\\Code\\C_CODE\\practice_9_6\\practice_9_6\\practice_\u6570\u7EC4.cpp",
+              "RelativeToolTip": "practice_9_6\\practice_\u6570\u7EC4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T11:50:33.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
