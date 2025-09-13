@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_File\\Code\\C_CODE\\practice_9_13\u51FD\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1234328-4CED-4D98-B8DF-9FED894BA5C4}|practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570.vcxproj|D:\\Study_File\\Code\\C_CODE\\practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570\\static_extern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1234328-4CED-4D98-B8DF-9FED894BA5C4}|practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570.vcxproj|solutionrelative:practice_9_13\u51FD\u6570\\static_extern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "static_extern.cpp",
+              "DocumentMoniker": "D:\\Study_File\\Code\\C_CODE\\practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570\\static_extern.cpp",
+              "RelativeDocumentMoniker": "practice_9_13\u51FD\u6570\\static_extern.cpp",
+              "ToolTip": "D:\\Study_File\\Code\\C_CODE\\practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570\\static_extern.cpp",
+              "RelativeToolTip": "practice_9_13\u51FD\u6570\\static_extern.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T10:15:30.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
