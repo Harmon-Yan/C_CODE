@@ -18,7 +18,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -28,10 +28,14 @@
               "RelativeDocumentMoniker": "practice_9_13\u51FD\u6570\\static_extern.cpp",
               "ToolTip": "D:\\Study_File\\Code\\C_CODE\\practice_9_13\u51FD\u6570\\practice_9_13\u51FD\u6570\\static_extern.cpp",
               "RelativeToolTip": "practice_9_13\u51FD\u6570\\static_extern.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-13T10:15:30.666Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
